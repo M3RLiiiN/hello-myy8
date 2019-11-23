@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Myy8
 
-You can use the [editor on GitHub](https://github.com/Stine2009/hello/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Stine2009/myy8) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
